@@ -8,10 +8,6 @@ h1, nav, img, figcaption {
     text-align:center;
 }
 
-nav + a {
-  width: 10px;
-  background-color: rgba(255,255,255);
-}
 
 figcaption {
   font-size: small
