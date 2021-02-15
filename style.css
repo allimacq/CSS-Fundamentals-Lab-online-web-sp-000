@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-h1, img, figcaption {
+h1, img, nav, figcaption {
     text-align:center;
 }
 
