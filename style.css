@@ -26,3 +26,7 @@ figcaption {
 #details {
   display: block;  
 }
+
+#details > div {
+  float: left
+}
