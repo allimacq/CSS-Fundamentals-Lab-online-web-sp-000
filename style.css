@@ -11,3 +11,7 @@ h1, nav, img, figcaption {
 nav + a {
   width: 10px;
 }
+
+figure.figcaption {
+  
+}
