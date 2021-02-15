@@ -28,5 +28,6 @@ figcaption {
 }
 
 #details > div {
-  float: left
+  float: left;
+  text-align: center;
 }
