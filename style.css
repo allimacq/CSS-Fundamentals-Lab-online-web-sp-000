@@ -10,7 +10,7 @@ h1, nav, img, figcaption {
 
 nav + a {
   width: 10px;
-  background-color: 
+  background-color: #e6e6e6
 }
 
 figcaption {
