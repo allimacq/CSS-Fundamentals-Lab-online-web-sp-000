@@ -9,5 +9,5 @@ h1, nav, img {
 }
 
 nav + a {
-  width: 100px;
+  width: 10px;
 }
