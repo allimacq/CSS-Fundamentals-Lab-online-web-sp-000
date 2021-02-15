@@ -7,3 +7,7 @@ body {
 h1, nav, img {
     text-align:center;
 }
+
+nav + a {
+  width: 10px;
+}
