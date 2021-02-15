@@ -10,7 +10,8 @@ h1, img, figcaption {
 
 nav {
   text-align: center;
-  width: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
   background-color: #999999;
 }
 
